@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Samanta</h1>
-<h3 align="center">Estoy estudiando Ingeniería en Computación y me gusta aprender sobre programación</h3>
+<h3 align="center">Estoy estudiando Ingeniería en Computación en la Facultad de Estudios Superiores Aragón y me gusta aprender sobre programación</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
